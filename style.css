@@ -9,6 +9,15 @@ h1 {
   font-size: xxx-large;
 }
 
+p {
+  text-wrap: pretty;
+  font-size: large;
+}
+
+.microphone-and-a-beat {
+  width: 50%;
+}
+
 .button-30 {
   align-items: center;
   appearance: none;
